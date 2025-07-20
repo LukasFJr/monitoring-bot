@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+.venv/
+
+# Poetry
+.poetry/
+
+# Tests
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
