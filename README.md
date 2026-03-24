@@ -1,2 +1,0 @@
-# CodexTest
-# Alive-Base-Images
